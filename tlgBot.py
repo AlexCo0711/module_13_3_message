@@ -8,7 +8,7 @@ import asyncio
 
 # 4. Дальше понадобится api ключ, который мы получили в «BotFather». Так же переменная бота,
 # она будет хранить объект бота, «token» будет равен вписанному ключу
-api = "7521487732:AAFPNCs4QV7XC5p0HDUbhZEjNg49-TAYYiM"
+api = ""
 bot = Bot(token=api)
 # 5. Понадобится «Dispatcher», который будет объектом «Dispatcher», у него будет наш бот в
 # качестве аргументов. В качестве «Storage» будет «MemoryStorage»
